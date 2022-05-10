@@ -1,6 +1,6 @@
 <div align="center">
   
-## Different but same
+## Same but different
 
 [![all.eviate's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-eviate&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
